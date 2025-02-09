@@ -1,4 +1,5 @@
-public class varibles {
+package varibles;
+public class Varibles {
     public static void main(String[] args) {
         String name= "vishal yadaw";
         int age=20;
