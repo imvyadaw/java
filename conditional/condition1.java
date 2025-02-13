@@ -8,7 +8,7 @@ public class condition1 {
             System.out.print("Enter your age: ");
             int age=sc.nextInt();
             if(age>=18){
-                System.out.println("aduly");
+                System.out.println("adult");
             }else{
                 System.out.println("Not adult");
             }
